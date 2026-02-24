@@ -1,4 +1,3 @@
-# Syntecxhub_Pandas_CSV_Reader
 # Pandas CSV Reader & Basic Analysis
 
 ## 📋 Project Overview
